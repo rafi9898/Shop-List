@@ -1,6 +1,7 @@
 # shop-List
 
-> Shop-List where we can adding new products to our list
+> An application for generating a dynamic shopping list. It was written in Vue.js and connected to the Firebase database. 
+> <img src="https://rpodraza.pl/img/projekty/shop-list-app.png" alt="screen app" />
 
 ## Build Setup
 
