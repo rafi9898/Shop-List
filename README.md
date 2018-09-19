@@ -1,6 +1,6 @@
-# shop-app
+# shop-List
 
-> Shop app where we can adding new products to our list
+> Shop-List where we can adding new products to our list
 
 ## Build Setup
 
